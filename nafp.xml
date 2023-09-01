@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/nAFP-unRAID/master/plugin/nafp.plg</PluginURL>
+<PluginAuthor>desertwitch</PluginAuthor>
+<Beta>True</Beta>
+<Category>Network:Other Tools:</Category>
+<Name>netatalk - AFP for UNRAID</Name>
+<Description>
+A plugin that integrates the legacy AFP file sharing protocol into newer UNRAID versions.
+</Description>
+<Support>https://forums.unraid.net/topic/144497-plugin-netatalk-afp-for-unraid-support-topic/</Support>
+<Icon>https://raw.githubusercontent.com/desertwitch/nAFP-unRAID/master/plugin/nafp.plg</Icon>
+<Date>2023-09-01</Date>
+<Changes>
+###2023.09.01
+- release note: welcome to the first version of the AFP package.
+- release note: please report any problems in the support topic.
+</Changes>
+</Containers>
