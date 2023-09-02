@@ -13,6 +13,9 @@ A plugin that integrates the legacy AFP file sharing protocol into newer UNRAID 
 <Icon>https://raw.githubusercontent.com/desertwitch/nAFP-unRAID/main/plugin/nafp.png</Icon>
 <Date>2023-09-01</Date>
 <Changes>
+###2023.09.02
+- fix: cleaning of old files from USB drive
+- new: reduce wait times for stuck AFP processes
 ###2023.09.01
 - release note: welcome to the first version of the AFP package.
 - release note: please report any problems in the support topic.
