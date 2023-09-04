@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut-2.8.0.plg</PluginURL>
+<PluginAuthor>desertwitch</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System Drivers:</Category>
+<Name>Network UPS Tools (NUT) - CI</Name>
+<Description>
+A fast-paced fork of the NUT plugin, offering additional features and frequent backend updates for your UPS.
+</Description>
+<Support>https://forums.unraid.net/topic/60217-plugin-nut-v2-network-ups-tools/</Support>
+<Icon>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut.png</Icon>
+<Date>2023-09-04</Date>
+<Changes>
+###2023.09.02
+- new: act on user configured notification triggers
+- fix: improve logging for GUI actions
+###2023.08.29
+- new: user configuration now persists between reinstalls of the plugin
+- new: added a button to GUI to reset all configuration files to their defaults
+- new: defined safe zones for additional settings in the configuration files
+- fix: clarified reload button in GUI some more for understanding what it does
+- fix: minor changes in how copy operations of configuration files are handled
+- fix: run UPS inverter poweroff also as root to avoid driver permission issues
+- fix: nut scanner is now no longer breaking user configuration files
+###2023.08.28
+- new: refactored handling of permissions and wording of log messages
+- new: refactored and decluttered installation, upgrading and removal processes
+- new: improved upgrading process making sure all existing NUT services are stopped first
+- new: compiled backend NUT package from current GitHub master branch (as of 26.08.2023)
+- new: optimized backend NUT package to use folder structure of earlier releases
+- new: added official Slackware Net-SNMP package with OpenSSL 3.1.2 for future UNRAID versions 6.13+
+- new: added backend NUT package compiled with OpenSSL 3.1.2 for future UNRAID versions 6.13+
+###2023.08.24
+- new: compiled backend NUT package from current master branch (as of 24.08.2023)
+</Changes>
+</Containers>
