@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut-2.8.0.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut-ci.plg</PluginURL>
 <PluginAuthor>desertwitch</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System Drivers:</Category>
