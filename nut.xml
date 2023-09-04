@@ -7,7 +7,7 @@
 <Category>Tools:System Drivers:</Category>
 <Name>Network UPS Tools (NUT) - CI</Name>
 <Description>
-A faster-paced frontend for NUT, maximizing your UPS experience with frequent updates of the NUT backend.
+A fast-paced fork of the NUT plugin, offering additional features and frequent backend updates for your UPS.
 </Description>
 <Support>https://forums.unraid.net/topic/60217-plugin-nut-v2-network-ups-tools/</Support>
 <Icon>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut.png</Icon>
