@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut-ci.plg</PluginURL>
 <PluginAuthor>desertwitch</PluginAuthor>
-<Beta>False</Beta>
+<Beta>True</Beta>
 <Category>Tools:System Drivers:</Category>
 <Name>Network UPS Tools (NUT) - CI</Name>
 <Description>
