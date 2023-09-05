@@ -7,7 +7,7 @@
 <Category>Tools:System Drivers:</Category>
 <Name>Network UPS Tools (NUT) for UNRAID</Name>
 <Description>
-A refactored, modernized version of the original NUT plugin with a focus on frequent updates.
+A refactored, modernized version of the original NUT plugin with a focus on frequent updates. This version will follow the latest developments of the master branch more closely to maximize UPS performance, while aiming to provide the same amount of stability.
 </Description>
 <Support>https://forums.unraid.net/topic/60217-plugin-nut-v2-network-ups-tools/</Support>
 <Icon>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut.png</Icon>
