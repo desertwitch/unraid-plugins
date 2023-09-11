@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/mergerFS-unRAID/main/plugin/mergerfsp.plg</PluginURL>
+<PluginAuthor>desertwitch</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools:System Drivers:</Category>
+<Name>mergerFS for UNRAID</Name>
+<Description>
+FOR ADVANCED USERS: A plugin that installs mergerFS, a featureful union filesystem, onto UNRAID systems. mergerfs is a union filesystem geared towards simplifying storage and management of files across numerous commodity storage devices. It is similar to mhddfs, unionfs, and aufs. 
+</Description>
+<Support>https://forums.unraid.net/topic/144999-plugin-mergerfs-for-unraid-support-topic/</Support>
+<Icon>https://raw.githubusercontent.com/desertwitch/mergerFS-unRAID/main/plugin/mergerfsp.png</Icon>
+<Date>2023-09-12</Date>
+<Changes>
+###2023.09.12
+- release note: welcome to the first version of the mergerFS package.
+- release note: please report any problems in the support topic.
+</Changes>
+</Containers>
