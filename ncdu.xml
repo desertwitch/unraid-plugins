@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/ncdu-unRAID/main/plugin/ncdu.plg</PluginURL>
+<PluginAuthor>desertwitch</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:</Category>
+<Name>ncdu - NCurses Disk Usage for UNRAID</Name>
+<Description>
+On the road and wondering what's eating up your precious disk space? Access to a SSH terminal but nothing else, no time to sift through folders? ncdu is a command-line disk usage analyzer with an ncurses interface. 
+</Description>
+<Support>https://forums.unraid.net/topic/145054-plugin-ncdu-ncurses-disk-usage-for-unraid/</Support>
+<Icon>https://raw.githubusercontent.com/desertwitch/ncdu-unRAID/main/plugin/ncdu.png</Icon>
+<Date>2023-09-13</Date>
+<Changes>
+###2023.09.13
+- release note: welcome to the first version of the ncdu package.
+- release note: please report any problems in the support topic.
+</Changes>
+</Containers>
