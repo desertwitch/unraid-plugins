@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut-dw.plg</PluginURL>
 <PluginAuthor>desertwitch</PluginAuthor>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Tools:System Drivers:</Category>
 <Name>Network UPS Tools (NUT) for UNRAID</Name>
 <Description>
