@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/mergerFS-unRAID/main/plugin/mergerfsp.plg</PluginURL>
 <PluginAuthor>desertwitch</PluginAuthor>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Tools:System Drivers:</Category>
 <Name>mergerFS for UNRAID</Name>
 <Description>
