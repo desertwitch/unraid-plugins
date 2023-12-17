@@ -7,7 +7,7 @@
 <Category>Tools:System Drivers:</Category>
 <Name>mergerFS for UNRAID</Name>
 <Description>
-A plugin that installs mergerFS, a featureful union filesystem, onto UNRAID systems. mergerfs is a union filesystem geared towards simplifying storage and management of files across numerous commodity storage devices. It is similar to mhddfs, unionfs, and aufs. 
+A plugin that installs mergerFS, a featureful union filesystem, onto UNRAID systems (includes mergerFS-Tools). mergerfs is a union filesystem geared towards simplifying storage and management of files across numerous commodity storage devices. It is similar to mhddfs, unionfs, and aufs. 
 </Description>
 <Support>https://forums.unraid.net/topic/144999-plugin-mergerfs-for-unraid-support-topic/</Support>
 <Icon>https://raw.githubusercontent.com/desertwitch/mergerFS-unRAID/main/plugin/mergerfsp.png</Icon>
@@ -17,4 +17,4 @@ A plugin that installs mergerFS, a featureful union filesystem, onto UNRAID syst
 - release note: welcome to the first version of the mergerFS package.
 - release note: please report any problems in the support topic.
 </Changes>
-</Containers>
+</Containers></Containers>
