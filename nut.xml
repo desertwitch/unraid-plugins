@@ -10,7 +10,7 @@
 A refactored, modernized version of the original NUT plugin with a focus on frequent updates. This alternative version has improved usability through precise documentation, offering various NUT backends to choose from, and following the latest developments of the NUT master branch more closely. It strives to maximize both your UPS performance and compatibility, while also aiming to provide useful new features with the same amount of stability as in earlier versions.
 </Description>
 <Support>https://forums.unraid.net/topic/60217-plugin-nut-v2-network-ups-tools/</Support>
-<Icon>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut-dw.png</Icon>
+<Icon>https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut.png</Icon>
 <Date>2023-09-04</Date>
 <Changes>
 ###2023.09.02
