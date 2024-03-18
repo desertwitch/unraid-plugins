@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/DVM-unRAID/main/plugin/dwdvm.plg</PluginURL>
+<PluginAuthor>desertwitch</PluginAuthor>
+<Beta>False</Beta>
+<Category>Network:Other Tools:</Category>
+<Name>Data Volume Monitor (DVM) for UNRAID</Name>
+<Description>
+Monitor and act on your consumed data volume utilizing vnStat: dashboards, notifications, start/stop Dockers, disconnect/reconnect VMs and custom scripting.
+</Description>
+<Support>https://forums.unraid.net/topic/158472-plugin-data-volume-monitor-dvm/</Support>
+<Icon>https://raw.githubusercontent.com/desertwitch/DVM-unRAID/main/plugin/dwdvm.png</Icon>
+<Date>2024-03-18</Date>
+<Changes>
+###2023.03.18
+- release note: welcome to the first version of the DVM package.
+- release note: please do report any problems in the support topic.
+</Changes>
+</Containers>
