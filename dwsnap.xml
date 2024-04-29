@@ -9,7 +9,7 @@
 <Description>
 An actively developed plugin for advanced users installing SnapRAID onto UNRAID systems.
 </Description>
-<Support>https://forums.unraid.net/topic/163561-plugin-snapraid-on-unraid/</Support>
+<Support>https://forums.unraid.net/topic/163648-plugin-snapraid-on-unraid/</Support>
 <Icon>https://raw.githubusercontent.com/desertwitch/SnapRAID-on-unRAID/main/plugin/dwsnap.png</Icon>
 <Date>2024-04-28</Date>
 <Changes>
