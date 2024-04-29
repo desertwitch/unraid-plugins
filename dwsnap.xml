@@ -11,7 +11,7 @@ An actively developed plugin for advanced users installing SnapRAID onto UNRAID 
 </Description>
 <Support>https://forums.unraid.net/topic/163648-plugin-snapraid-on-unraid/</Support>
 <Icon>https://raw.githubusercontent.com/desertwitch/SnapRAID-on-unRAID/main/plugin/dwsnap.png</Icon>
-<Date>2024-04-28</Date>
+<Date>2024-04-29</Date>
 <Changes>
 ###2024.04.27
 - fix: allocate RAM disk for operational output to prevent filling up rootfs
