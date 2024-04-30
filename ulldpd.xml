@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/LLDP-unRAID/main/plugin/ulldpd.plg</PluginURL>
 <PluginAuthor>desertwitch</PluginAuthor>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Network:Other Tools:</Category>
 <Name>LLDP for UNRAID</Name>
 <Description>
