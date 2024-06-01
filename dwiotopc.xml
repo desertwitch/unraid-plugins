@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/iotop-c-unRAID/main/plugin/dwiotopc.plg</PluginURL>
+<PluginAuthor>desertwitch</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools: Tools:System</Category>
+<Name>iotop (C Version) for UNRAID</Name>
+<Description>
+(No Dependencies/No Python Required) iotop-c is a command line utility that identifies processes causing a high amount of input/output requests on your machine.
+</Description>
+<Support>https://forums.unraid.net/topic/167319-plugin-iotop-c-version-for-unraid/</Support>
+<IconFA>database</IconFA>
+<Date>2024-06-01</Date>
+<Changes>
+###2024.06.01
+- release note: welcome to the first version of the package.
+</Changes>
+</Containers>
