@@ -7,7 +7,7 @@
 <Category>Tools:System Drivers:</Category>
 <Name>SnapRAID on UNRAID</Name>
 <Description>
-A plugin for advanced users installing SnapRAID onto UNRAID systems (with support for multiple arrays).
+A plugin for advanced users installing SnapRAID onto UNRAID systems, now with support for multiple arrays.
 </Description>
 <Support>https://forums.unraid.net/topic/163648-plugin-snapraid-on-unraid/</Support>
 <IconFA>scissors</IconFA>
