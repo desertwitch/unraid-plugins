@@ -7,10 +7,10 @@
 <Category>Tools:System Drivers:</Category>
 <Name>SnapRAID on UNRAID</Name>
 <Description>
-A plugin for advanced users installing SnapRAID onto UNRAID systems.
+A plugin for advanced users installing SnapRAID onto UNRAID systems (with support for multiple arrays).
 </Description>
 <Support>https://forums.unraid.net/topic/163648-plugin-snapraid-on-unraid/</Support>
-<Icon>https://raw.githubusercontent.com/desertwitch/SnapRAID-on-unRAID/main/plugin/dwsnap.png</Icon>
+<IconFA>scissors</IconFA>
 <Date>2024-04-29</Date>
 <Changes>
 ###2024.04.27
