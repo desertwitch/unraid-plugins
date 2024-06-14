@@ -4,7 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/desertwitch/memtester-unRAID/main/plugin/dwmemtester.plg</PluginURL>
 <PluginAuthor>desertwitch</PluginAuthor>
 <Beta>False</Beta>
-<Category>Other: Tools:</Category>
+<Category>Tools: Tools:System</Category>
 <Name>Live Memory Tester for UNRAID</Name>
 <Description>
 A diagnostic plugin that lets you test your RAM without needing to reboot.
