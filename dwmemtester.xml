@@ -4,10 +4,10 @@
 <PluginURL>https://raw.githubusercontent.com/desertwitch/memtester-unRAID/main/plugin/dwmemtester.plg</PluginURL>
 <PluginAuthor>desertwitch</PluginAuthor>
 <Beta>False</Beta>
-<Category>Tools: Tools:System</Category>
+<Category>Other: Tools:</Category>
 <Name>Live Memory Tester for UNRAID</Name>
 <Description>
-A diagnostic plugin that lets you test your RAM without needing to reboot. It can identify memory problems in situations where a restart is not (immediately) possible or simply stress test your RAM.
+A diagnostic plugin that lets you test your RAM without needing to reboot.
 </Description>
 <Support>https://forums.unraid.net/topic/168125-plugin-live-memory-tester-for-unraid/</Support>
 <IconFA>microchip</IconFA>
