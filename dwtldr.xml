@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/tldr-unRAID/main/plugin/dwtldr.plg</PluginURL>
+<PluginAuthor>desertwitch</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools: Tools:System</Category>
+<Name>TLDR for UNRAID</Name>
+<Description>
+How did that terminal command work again? TLDR presents the most common use cases for a command right inside your terminal, so you spend less time researching command arguments and more time actually getting things done.
+</Description>
+<Support>https://forums.unraid.net/topic/171110-plugin-tldr-command-line-cheatsheets-for-unraid/</Support>
+<IconFA>quote-left</IconFA>
+<Date>2024-07-26</Date>
+<Changes>
+###2024.07.26
+- release note: welcome to the first version of the package.
+</Changes>
+</Containers>
