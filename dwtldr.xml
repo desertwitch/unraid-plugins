@@ -5,7 +5,7 @@
 <PluginAuthor>desertwitch</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools: Tools:System</Category>
-<Name>TLDR for UNRAID</Name>
+<Name>TLDR Manpages for UNRAID</Name>
 <Description>
 How did that terminal command work again? TLDR presents the most common use cases for a command right inside your terminal, so you spend less time researching command arguments and more time actually getting things done.
 </Description>
