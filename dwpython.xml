@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/python-unRAID/main/plugin/dwpython.plg</PluginURL>
+<PluginAuthor>desertwitch</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools: Tools:System</Category>
+<Name>Python 3 for UNRAID</Name>
+<Description>
+Installs python3, pip and setuptools onto Unraid systems. Just simple and functional, no dependency problems.
+</Description>
+<Support>https://forums.unraid.net/topic/175402-plugin-python-3-for-unraid/</Support>
+<IconFA>code</IconFA>
+<Date>2024-09-18</Date>
+<Changes>
+###2024.09.18
+- release note: welcome to the first version of the package
+</Changes>
+</Containers>
