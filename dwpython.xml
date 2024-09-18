@@ -9,7 +9,7 @@
 <Description>
 Installs python3, pip and setuptools onto Unraid systems. Just simple and functional, no dependency problems.
 </Description>
-<Support>https://forums.unraid.net/topic/175402-plugin-python-3-for-unraid/</Support>
+<Support>https://forums.unraid.net/topic/175402-plugin-python-3-for-unraid-611/</Support>
 <IconFA>code</IconFA>
 <Date>2024-09-18</Date>
 <Changes>
