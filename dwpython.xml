@@ -7,7 +7,7 @@
 <Category>Tools: Tools:System</Category>
 <Name>Python 3 for UNRAID</Name>
 <Description>
-Installs python3, pip and setuptools onto Unraid systems. Just simple and functional, no dependency problems.
+Installs python3, pip and setuptools onto Unraid systems. No library issues, fully compatible with Unraid 6 and 7.
 </Description>
 <Support>https://forums.unraid.net/topic/175402-plugin-python-3-for-unraid-611/</Support>
 <IconFA>code</IconFA>
