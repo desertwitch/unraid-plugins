@@ -10,7 +10,7 @@
 A plugin that integrates the legacy AFP file sharing protocol into newer UNRAID versions.
 </Description>
 <Support>https://forums.unraid.net/topic/144497-plugin-netatalk-afp-for-unraid-support-topic/</Support>
-<Icon>https://raw.githubusercontent.com/desertwitch/nAFP-unRAID/main/plugin/nafp.png</Icon>
+<IconFA>handshake-o</IconFA>
 <Date>2023-09-01</Date>
 <Changes>
 ###2023.09.02
