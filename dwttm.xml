@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/TTM-unRAID/main/plugin/dwttm.plg</PluginURL>
 <PluginAuthor>desertwitch</PluginAuthor>
-<Beta>False</Beta>
+<Beta>True</Beta>
 <Category>Tools: Tools:System</Category>
 <Name>Tmux Terminal Manager (TTM)</Name>
 <Description>
