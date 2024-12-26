@@ -7,7 +7,7 @@
 <Category>Tools: Tools:System</Category>
 <Name>Tmux Terminal Manager (TTM)</Name>
 <Description>
-Easily open and manage multiple persistent terminal sessions in the Unraid Web GUI. Leave your terminals and come back at any later time. This plugin installs Tmux, if it is not already present on your system.
+Easily open and manage multiple persistent terminal sessions in the Unraid Web GUI. Leave your terminals and come back at any later time. Installs Tmux, if it is not already present on your system.
 </Description>
 <Support>https://forums.unraid.net/topic/183427-plugin-tmux-terminal-manager-ttm/</Support>
 <IconFA>tty</IconFA>
