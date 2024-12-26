@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/TTM-unRAID/main/plugin/dwttm.plg</PluginURL>
+<PluginAuthor>desertwitch</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools: Tools:System</Category>
+<Name>Tmux Terminal Manager (TTM)</Name>
+<Description>
+Easily open and manage multiple persistent terminal sessions in the Unraid Web GUI. Leave your terminals and come back at any later time to check on your long-running operations. This plugin installs Tmux, if it is not already present on your system.
+</Description>
+<Support>https://forums.unraid.net/topic/183427-plugin-tmux-terminal-manager-ttm/</Support>
+<IconFA>tty</IconFA>
+<Date>2024-12-26</Date>
+<Changes>
+###2024.12.26
+- release note: welcome to the first version of the plugin
+- release note: please report any issues in the support thread on the forums
+</Changes>
+</Containers>
