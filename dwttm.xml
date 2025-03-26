@@ -7,7 +7,7 @@
 <Category>Tools: Tools:System</Category>
 <Name>Tmux Terminal Manager (TTM)</Name>
 <Description>
-Leave terminals and come back at any later time. Manage and create persistent terminal sessions in the Unraid Web GUI. (Installs Tmux - if not already installed)
+Leave terminals and come back later. Manage and create persistent terminal sessions in the Unraid Web GUI. (Installs Tmux and Reptyr - if not already installed)
 </Description>
 <Support>https://forums.unraid.net/topic/183427-plugin-tmux-terminal-manager-ttm/</Support>
 <IconFA>tty</IconFA>
