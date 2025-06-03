@@ -2,7 +2,7 @@
 <Containers>
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/python-unRAID/main/plugin/dwpython.plg</PluginURL>
-<PluginAuthor>desertwitch</PluginAuthor>
+<PluginAuthor>desertwitch (Rysz)</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools: Tools:System</Category>
 <Name>Python 3 for UNRAID</Name>

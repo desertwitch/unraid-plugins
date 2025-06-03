@@ -2,7 +2,7 @@
 <Containers>
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/memtester-unRAID/main/plugin/dwmemtester.plg</PluginURL>
-<PluginAuthor>desertwitch</PluginAuthor>
+<PluginAuthor>desertwitch (Rysz)</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools: Tools:System</Category>
 <Name>Live Memory Tester for UNRAID</Name>

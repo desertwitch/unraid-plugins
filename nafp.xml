@@ -2,7 +2,7 @@
 <Containers>
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/nAFP-unRAID/main/plugin/nafp.plg</PluginURL>
-<PluginAuthor>desertwitch</PluginAuthor>
+<PluginAuthor>desertwitch (Rysz)</PluginAuthor>
 <Beta>False</Beta>
 <Category>Network:Other Tools:</Category>
 <Name>netatalk - AFP for UNRAID</Name>

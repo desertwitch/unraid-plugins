@@ -2,7 +2,7 @@
 <Containers>
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/DVM-unRAID/main/plugin/dwdvm.plg</PluginURL>
-<PluginAuthor>desertwitch</PluginAuthor>
+<PluginAuthor>desertwitch (Rysz)</PluginAuthor>
 <Beta>False</Beta>
 <Category>Network:Other Tools:</Category>
 <Name>Data Volume Monitor (DVM) for UNRAID</Name>

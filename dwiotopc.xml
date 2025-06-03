@@ -2,7 +2,7 @@
 <Containers>
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/iotop-c-unRAID/main/plugin/dwiotopc.plg</PluginURL>
-<PluginAuthor>desertwitch</PluginAuthor>
+<PluginAuthor>desertwitch (Rysz)</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools: Tools:System</Category>
 <Name>iotop (C Version) for UNRAID</Name>
