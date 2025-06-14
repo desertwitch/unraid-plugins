@@ -7,7 +7,7 @@
 <Category>Tools: Tools:System</Category>
 <Name>MirrorShuttle for UNRAID</Name>
 <Description>
-MirrorShuttle helps organize and move files into read-only user shares - without ever granting write access. Ideal for media servers; adios, ransomware worries. It enables a workflow that allows untrusted clients to organize files in a staging area that mimics the secure environment's structure. Files are then moved into the planned protected destinations from within the server and without ever giving your clients external write access.
+MirrorShuttle helps organize and move files into read-only network shares - without ever granting write access. Ideal for media servers; adios, ransomware. It enables a workflow that allows untrusted clients to organize files in a staging area that mimics the secure environment's structure. Files are then moved into the planned protected destinations from within the server and without ever giving your clients external write access.
 </Description>
 <Support>https://forums.unraid.net/topic/191119-plugin-mirrorshuttle-for-unraid/</Support>
 <Icon>https://raw.githubusercontent.com/desertwitch/mirrorshuttle-unRAID/main/plugin/mirsht.png</Icon>
