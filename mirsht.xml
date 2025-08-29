@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/desertwitch/mirrorshuttle-unRAID/main/plugin/mirsht.plg</PluginURL>
 <PluginAuthor>desertwitch (Rysz)</PluginAuthor>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Tools: Tools:System</Category>
 <Name>MirrorShuttle for UNRAID</Name>
 <Description>
