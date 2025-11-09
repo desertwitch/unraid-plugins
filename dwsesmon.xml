@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/desertwitch/sesmon-unRAID/main/plugin/dwsesmon.plg</PluginURL>
+<PluginAuthor>desertwitch (Rysz)</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools: Tools:System</Category>
+<Name>SCSI Enclosure Monitor</Name>
+<Description>
+Monitors SES-capable SCSI enclosures (such as disk shelves); tested to work with the popular NetApp IOMs (specifically IOM6 in DS4246).
+</Description>
+<Support>https://forums.unraid.net/topic/194941-plugin-scsi-enclosure-monitor/</Support>
+<Icon>https://raw.githubusercontent.com/desertwitch/sesmon-unRAID/main/plugin/sesmon.png</Icon>
+<Date>2025-11-09</Date>
+<Changes>
+###2025.11.09
+- release note: welcome to the first version of the package.
+- release note: please report any problems in the support topic.
+</Changes>
+</Containers>
