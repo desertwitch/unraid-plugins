@@ -7,7 +7,7 @@
 <Category>Tools: Tools:System</Category>
 <Name>nwipe (with Preclear)</Name>
 <Description>
-This forked version of the original program adds a selectable method to pre-clear Unraid disks (within nwipe), while keeping the rest of the functionality consistent with the original. nwipe is a program that will securely erase the entire contents of disks, with a ncurses GUI. It can help you make sure that your precious data is gone for good, before you sell or RMA your disks. nwipe is a fork of the dwipe command originally used by Darik's Boot and Nuke (DBAN).
+For advanced users, this forked version of the original program adds a selectable method to pre-clear Unraid disks (within nwipe) - while keeping the rest of the functionality consistent with the original. nwipe is a program that will securely erase the entire contents of disks, with a ncurses GUI. It can help you make sure that your precious data is gone for good, before you sell or RMA your disks. nwipe is a fork of the dwipe command originally used by Darik's Boot and Nuke (DBAN).
 </Description>
 <Support>https://forums.unraid.net/topic/168624-plugin-nwipe-secure-disk-eraser-for-unraid/</Support>
 <IconFA>bomb</IconFA>
