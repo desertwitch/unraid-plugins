@@ -7,7 +7,7 @@
 <Category>Tools: Tools:System</Category>
 <Name>par2cron for UNRAID</Name>
 <Description>
-Protects and repairs important folders from corruption or bitrot using PAR2. It is designed for use with non-changing files, perfect for adding a degree of protection to your media libraries or backups.
+Protects and repairs important folders from corruption or bitrot using PAR2. It is designed for use with non-changing files, perfect for adding integrity protection to your media libraries or backups.
 </Description>
 <Support>https://forums.unraid.net/topic/196782-plugin-par2cron-for-unraid/</Support>
 <Icon>https://raw.githubusercontent.com/desertwitch/par2cron-unRAID/main/plugin/dwpar2cron.png</Icon>
