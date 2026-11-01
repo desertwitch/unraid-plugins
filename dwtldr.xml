@@ -4,6 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/desertwitch/tldr-unRAID/main/plugin/dwtldr.plg</PluginURL>
 <PluginAuthor>desertwitch (Rysz)</PluginAuthor>
 <Beta>False</Beta>
+<Deprecated>True</Deprecated>
 <Category>Tools: Tools:System</Category>
 <Name>TLDR Manpages for UNRAID</Name>
 <Description>

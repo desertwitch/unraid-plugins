@@ -4,6 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/desertwitch/SnapRAID-on-unRAID/main/plugin/dwsnap.plg</PluginURL>
 <PluginAuthor>desertwitch (Rysz)</PluginAuthor>
 <Beta>False</Beta>
+<Deprecated>True</Deprecated>
 <Category>Tools:System Drivers:</Category>
 <Name>SnapRAID on UNRAID</Name>
 <Description>
