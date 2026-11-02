@@ -4,6 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/desertwitch/python-unRAID/main/plugin/dwpython.plg</PluginURL>
 <PluginAuthor>desertwitch (Rysz)</PluginAuthor>
 <Beta>False</Beta>
+<Deprecated>True</Deprecated>
 <Category>Tools: Tools:System</Category>
 <Name>Python 3 for UNRAID</Name>
 <Description>

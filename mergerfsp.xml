@@ -4,6 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/desertwitch/mergerFS-unRAID/main/plugin/mergerfsp.plg</PluginURL>
 <PluginAuthor>desertwitch (Rysz)</PluginAuthor>
 <Beta>False</Beta>
+<Deprecated>True</Deprecated>
 <Category>Tools:System Drivers:</Category>
 <Name>mergerFS for UNRAID</Name>
 <Description>
